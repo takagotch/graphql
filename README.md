@@ -1,6 +1,9 @@
-### graphql
+### graphql GraphQL
 ---
 https://github.com/tmc/graphql
+
+
+
 
 ```go
 // internal/parsar/parser_test.go
